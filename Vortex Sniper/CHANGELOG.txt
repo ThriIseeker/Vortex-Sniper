@@ -1,0 +1,6 @@
+Fixed webhook
+Fixed ratelimit issue
+Fixed bot
+Didnt fix you not getting any bitches
+Fixed random discord_webhook import??
+Fixed visual
