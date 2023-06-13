@@ -46,3 +46,8 @@ Please note that using automated sniper tools may violate the terms of service o
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or enhancements, feel free to open an issue or submit a pull request.
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
